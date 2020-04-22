@@ -10,7 +10,7 @@ Video Demonstration of Project: https://drive.google.com/open?id=1B1_XTSIDG9wA0U
 Final Year Report: https://drive.google.com/open?id=1FNHPVpCinNIfeUWH_PPh-hZBFin9c4Zc
 
 ### Credits
-1. Google's Open-Sourcec Framework, TensorFlow:
+1. Google's Open-Source Framework, TensorFlow:
 - https://github.com/tensorflow/models
 - https://github.com/tensorflow/tensorflow
 
