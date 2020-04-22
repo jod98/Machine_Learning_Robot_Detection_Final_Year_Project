@@ -21,3 +21,6 @@ Final Year Report: https://drive.google.com/open?id=1FNHPVpCinNIfeUWH_PPh-hZBFin
 - https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi
 - https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/Raspberry_Pi_Guide.md
 
+![RoboEireann](https://user-images.githubusercontent.com/36043248/79983121-390c5f00-849f-11ea-8a07-588f91048098.png)
+
+![TensorFlow(PC)_SSDLite_MobileNet_V2_300x300_COCO](https://user-images.githubusercontent.com/36043248/79983116-36aa0500-849f-11ea-897c-45f5f64ea45d.PNG)
