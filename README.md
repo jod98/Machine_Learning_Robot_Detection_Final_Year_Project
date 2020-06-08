@@ -7,9 +7,9 @@ RoboEireann is a NUI (National University of Ireland) Maynooth funded research p
 This repository provides the user with the ability to train and evaluate their own neural network to perform the application of their choice. In my case I created a convolutional neural network that integrates supervised learning. My dataset consists of 4415 training images and 491 testing images in which aid to train the network alongside the corresponding labels (examples of these images are included in the 'Sample_Images' folder). My networks were trained on both TensorFlow and TensorFlow Lite (lightweight solution) on two different platforms a desktop PC with an integrated GPU and a Raspberry Pi 3 to provide a comparison. 
 
 ## Content: (Google Drive Share)
-Video Demonstration of Project: (https://drive.google.com/open?id=1bAr3zDb3X1k4azYCL0lecp44LcRQk4M2)
+Video Demonstration of Project: (https://drive.google.com/file/d/1nXczUp7S2cWnd4_VzMqAX87nFgQc6Atu/view?usp=sharing)
 
-Final Year Report: (https://drive.google.com/open?id=1wIklw6F0cnwyct2JSrh-ZNBpFzmBn7Cd)
+Final Year Report: (https://drive.google.com/file/d/122X0JT63z5bBxHwXJZJDS_usqkHms-8w/view?usp=sharing)
 
 ### Credits
 1. Google's Open-Source Framework, TensorFlow:
